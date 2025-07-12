@@ -1,5 +1,3 @@
-👋 Hi Everyone!
-
 This is a Student Registration Form built using HTML, TailwindCSS, and JavaScript. It allows users to input student information in a clean, user-friendly interface. The form data is dynamically displayed in a table and can be easily deleted.
 
 ✨ Features
